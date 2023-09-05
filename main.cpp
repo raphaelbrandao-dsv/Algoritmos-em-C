@@ -1,6 +1,6 @@
 /*------------------------------------
 primeiro programa em C/C++
-Arquivo:primeiro.cpp
+Arquivo:main.cpp
 ------------------------------------*/
 
 #include <stdio.h>
