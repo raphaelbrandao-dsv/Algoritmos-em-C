@@ -7,7 +7,8 @@ Arquivo:primeiro.cpp
 
 int main()
 {
-    // imprime olá para alguém
+    // Imprime meu nome
+    
     printf("Meu nome é Raphael");
     
 }
